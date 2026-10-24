@@ -31,3 +31,5 @@ bin/
 .idea
 .venv
 *.xml
+
+.ipynb_checkpoints
