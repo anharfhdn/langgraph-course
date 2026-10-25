@@ -33,3 +33,5 @@ bin/
 *.xml
 
 .ipynb_checkpoints
+
+.env
